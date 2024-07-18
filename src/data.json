@@ -1,0 +1,103 @@
+[
+    {
+      "companyName": "Tech Innovators Inc.",
+      "jobDescription": "Software Developer Internship",
+      "startDate": "2024-08-01",
+      "techStackRequired": ["JavaScript", "React", "Node.js"],
+      "companyCulture": "Innovative, Collaborative, Fast-Paced",
+      "numberOfEmployees": 500,
+      "ctcOffering": "INR 6 LPA",
+      "logo":"/techInnovators.png"
+    },
+    {
+      "companyName": "Future Solutions Ltd.",
+      "jobDescription": "Data Analyst",
+      "startDate": "2024-09-01",
+      "techStackRequired": ["Python", "SQL", "Tableau"],
+      "companyCulture": "Analytical, Results-Driven, Supportive",
+      "numberOfEmployees": 200,
+      "ctcOffering": "INR 8 LPA",
+       "logo":"/futreSoloution.png"
+    },
+    {
+      "companyName": "NextGen Tech",
+      "jobDescription": "Frontend Developer",
+      "startDate": "2024-08-15",
+      "techStackRequired": ["HTML", "CSS", "JavaScript", "Vue.js"],
+      "companyCulture": "Creative, Flexible, Agile",
+      "numberOfEmployees": 150,
+      "ctcOffering": "INR 7 LPA",
+       "logo":"/nextGen.png"
+    },
+    {
+      "companyName": "AI Pioneers",
+      "jobDescription": "Machine Learning Engineer",
+      "startDate": "2024-10-01",
+      "techStackRequired": ["Python", "TensorFlow", "Keras"],
+      "companyCulture": "Research-Oriented, Innovative, Diverse",
+      "numberOfEmployees": 300,
+      "ctcOffering": "INR 12 LPA",
+       "logo":"/AIPio.png"
+    },
+    {
+      "companyName": "Web Wizards",
+      "jobDescription": "Full Stack Developer",
+      "startDate": "2024-08-20",
+      "techStackRequired": ["JavaScript", "Node.js", "Angular", "MongoDB"],
+      "companyCulture": "Dynamic, Team-Oriented, Growth-Focused",
+      "numberOfEmployees": 250,
+      "ctcOffering": "INR 9 LPA",
+       "logo":"/webwizards.png"
+    },
+    {
+      "companyName": "Cyber Security Pros",
+      "jobDescription": "Security Analyst",
+      "startDate": "2024-09-10",
+      "techStackRequired": ["Python", "Linux", "Networking"],
+      "companyCulture": "Security-Focused, Detailed, Proactive",
+      "numberOfEmployees": 100,
+      "ctcOffering": "INR 10 LPA",
+       "logo":"/cyber.png"
+    },
+    {
+      "companyName": "Cloud Solutions Inc.",
+      "jobDescription": "Cloud Engineer",
+      "startDate": "2024-08-25",
+      "techStackRequired": ["AWS", "Azure", "Docker", "Kubernetes"],
+      "companyCulture": "Cloud-Focused, Collaborative, Innovative",
+      "numberOfEmployees": 400,
+      "ctcOffering": "INR 11 LPA",
+       "logo":"/cloud.png"
+    },
+    {
+      "companyName": "FinTech Innovators",
+      "jobDescription": "Backend Developer",
+      "startDate": "2024-09-05",
+      "techStackRequired": ["Java", "Spring Boot", "MySQL"],
+      "companyCulture": "Finance-Focused, Fast-Paced, Innovative",
+      "numberOfEmployees": 350,
+      "ctcOffering": "INR 9 LPA",
+       "logo":"/fintech.png"
+    },
+    {
+      "companyName": "Eco Tech",
+      "jobDescription": "Sustainability Analyst",
+      "startDate": "2024-10-15",
+      "techStackRequired": ["Excel", "PowerBI", "R"],
+      "companyCulture": "Eco-Friendly, Community-Oriented, Research-Driven",
+      "numberOfEmployees": 80,
+      "ctcOffering": "INR 8 LPA",
+       "logo":"/ecoTech.png"
+    },
+    {
+      "companyName": "HealthTech Solutions",
+      "jobDescription": "Healthcare Data Scientist",
+      "startDate": "2024-08-30",
+      "techStackRequired": ["Python", "R", "SQL", "Healthcare Data Standards"],
+      "companyCulture": "Healthcare-Focused, Innovative, Impactful",
+      "numberOfEmployees": 150,
+      "ctcOffering": "INR 10 LPA",
+       "logo":"/health.png"
+    }
+  ]
+  
